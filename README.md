@@ -1,4 +1,4 @@
-# 📚 Skill Bridge – Smart Tutor Booking Platform
+# 📚 Skill Bridge – Smart Tutor Booking Platforms
 
 A modern, full-stack tutor discovery and booking platform built with cutting-edge technologies. Skill Bridge connects students with qualified tutors through a seamless, intuitive, and visually appealing interface.
 
